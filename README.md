@@ -50,7 +50,7 @@
 
     <nav>
         <ul>
-            <li>Nombre del estudiante</li>
+            <li>Sasami Pilaquinga</li>
             <li>Menú de investigación</li>
             <li>Redes</li>
             <li>Soporte</li>
